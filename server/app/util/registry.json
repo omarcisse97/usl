@@ -1,0 +1,35 @@
+{
+  "System": {
+    "_namespace": "System",
+    "_modules": {
+      "PageFactory": {
+        "_moduleName": "PageFactory",
+        "_modulePath": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\System\\PageFactory",
+        "_controller": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\System\\PageFactory\\Controller\\controller.js",
+        "_publicRoute": ""
+      }
+    }
+  },
+  "DisplayModules": {
+    "_namespace": "DisplayModules",
+    "_modules": {
+      "DisplayModules": {
+        "_moduleName": "DisplayModules",
+        "_modulePath": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\DisplayModules",
+        "_controller": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\DisplayModules\\Controller\\controller.js",
+        "_publicRoute": "modules"
+      }
+    }
+  },
+  "DatabaseConnection": {
+    "_namespace": "DatabaseConnection",
+    "_modules": {
+      "Postgres": {
+        "_moduleName": "Postgres",
+        "_modulePath": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\DatabaseConnection\\Postgres",
+        "_controller": "C:\\Users\\OmRtH\\Documents\\learning\\fullStack\\projects\\USL\\server\\app\\code\\DatabaseConnection\\Postgres\\Controller\\controller.js",
+        "_publicRoute": ""
+      }
+    }
+  }
+}
